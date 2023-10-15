@@ -1,4 +1,4 @@
-![logo](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
+![logo](https://github.com/utkarsh2603/utkarsh2603/assets/82366906/fd7b8f21-d863-4b90-b911-cddedd9eafdd)
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
 <h3 align="center">A passionate Software Developer as well as Frontend Developer from India</h3>
 
