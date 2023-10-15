@@ -1,4 +1,4 @@
-![logo](https://github.com/utkarsh2603/utkarsh2603/assets/82366906/8d8d62a6-0909-4cd3-bde6-513ebdfda185)
+![logo](https://github.com/utkarsh2603/utkarsh2603/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
 <h3 align="center">A passionate Software Developer as well as Frontend Developer from India</h3>
