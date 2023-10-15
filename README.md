@@ -1,4 +1,4 @@
-![logo](https://github.com/utkarsh2603/utkarsh2603/blob/7fe793f169b432aa3375dc3c4bc3b1424435e765/Github_Banner.png)
+![logo](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
 <h3 align="center">A passionate Software Developer as well as Frontend Developer from India</h3>
 
