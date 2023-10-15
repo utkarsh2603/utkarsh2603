@@ -1,4 +1,4 @@
-![logo](https://github.com/utkarsh2603/utkarsh2603/blob/main/image.png)
+![logo](https://github.com/utkarsh2603/utkarsh2603/blob/main/Github_Banner.jpg)
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
 <h3 align="center">A passionate Software Developer as well as Frontend Developer from India</h3>
 
