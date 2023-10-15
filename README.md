@@ -1,4 +1,5 @@
-![logo](https://github.com/utkarsh2603/utkarsh2603/assets/82366906/fd7b8f21-d863-4b90-b911-cddedd9eafdd)
+![logo](https://github.com/utkarsh2603/utkarsh2603/assets/82366906/8d8d62a6-0909-4cd3-bde6-513ebdfda185)
+
 <h1 align="center">Hi 👋, I'm Utkarsh Kumar</h1>
 <h3 align="center">A passionate Software Developer as well as Frontend Developer from India</h3>
 
