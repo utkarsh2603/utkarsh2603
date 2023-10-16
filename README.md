@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh2603&label=Profile%20views&color=0e75b6&style=flat" alt="utkarsh2603" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://utkarsh2603.github.io/Portfolio/)
+- 🔭 I’m currently working on [My Portfolio](https://utkarsh2603.github.io/Utkarsh_Kumar_Portfolio/)
 
 - 🌱 I’m currently learning **React-Js | Node-Js | Express-JS**
 
